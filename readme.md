@@ -11,4 +11,4 @@ This file does not contain a link however can be viewed on [GitHub](https://gith
 Please find attached a snippet screenshot of Challenge 17
 ![screenshot](./screenshot.PNG "Screenshot")
 
-My GitHub: <https://github.com/RyanZade>
+My GitHub: [RyanZade](https://github.com/RyanZade)
